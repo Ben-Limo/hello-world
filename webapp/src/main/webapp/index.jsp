@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user</h1>
     <h2>Register for Devops Learning</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in the form to create a new account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
